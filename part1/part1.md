@@ -138,9 +138,9 @@
     The third iteration: function(3 + 2), then return 5 * 2, then push into
     newArr.
 
-20. part1-question20.js
+20. See part1-question20.js
 
-21. 1
-  4
-  3
+21. 1\
+  4\
+  3\
   2
