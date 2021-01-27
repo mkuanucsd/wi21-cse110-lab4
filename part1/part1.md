@@ -115,6 +115,8 @@
     the second statement does an implied conversion "Boolean(2)" which returns
     true, so it will print "How are you?"
 
+18. See part1-question18.js
+
 19. [ 6, 8, 10]
 
     The function creates a new array. Then, it will iterate 3 times, where it
@@ -135,6 +137,8 @@
 
     The third iteration: function(3 + 2), then return 5 * 2, then push into
     newArr.
+
+20. part1-question20.js
 
 21. 1
   4
